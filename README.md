@@ -1,5 +1,5 @@
 # 🔥 Responsive Portfolio Website Kelly
-## [Live Preview](https://amanayak.github.io/Create-Responsive-Portfolio-Website-Kelly)
+## [Live Preview](https://create-responsive-portfolio-website-kelly.vercel.app/)
 ### 🔥 Responsive Portfolio Website
 
 - Responsive Portfolio Website Using HTML CSS & JavaScript
